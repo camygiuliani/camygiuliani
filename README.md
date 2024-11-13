@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camygiuliani , I am a M.Sc.in Articial Intelligence and Robotics student at Sapienza Univeristy of Rome.
-- 👀 I’m really into reading bboks, music, psycology and computers!
+- 👀 I’m really into reading books, music, psycology and computers!
 - 🌱 I’m currently learning ML methods and ROS2.
 -  I’m looking to collaborate on issues like climate change and how AI can make human life better.
 
